@@ -13,7 +13,7 @@
 
 </div>
 
-## 🚀  Compra de ingressp
+## 🚀  Compra de ingresso
 projeto desenvolvido através do curso **Lógica de programação: praticando com desafios** com o acompnahmento dos professores Jacqueline Oliveira e Rodrigo da Silva Ferreira Caneppele da escola **ALURA**.
 
 ## ⚙️ Descrição do projeto
