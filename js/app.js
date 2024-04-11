@@ -5,7 +5,7 @@ limparCampos();
 
 function comprar() {
     let tipoIngresso = document.getElementById('tipo-ingresso').value;
-    let quantidadeIngresso = document.getElementById('qtd').value;
+    let quantidadeIngresso = parseInt(document.getElementById('qtd').value);
     if (isNaN(quantidadeIngresso) || quantidadeIngresso <= 0) {
         alert('Por favor, insira uma quantidade válida.');
     } else {
